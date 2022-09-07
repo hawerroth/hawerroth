@@ -1,6 +1,6 @@
 # Hi, nice to see you 👋
 Welcome to my page! 
-<p>I'm a tech lover, productivity geek and mommy. Aspiring coder and full-time adventure seeker.</p>
+<p>I'm a tech lover, productivity geek and mommy. Aspiring coder and full-time learning seeker.</p>
 <p>Currently working hard to grow up my skills in software development.</p>
 
 ## 🎙️ About Me:
