@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm a tech lover, productivity nerd and mommy.
+I'm a tech lover, productivity geek and mommy.
 Currently working hard to grow up my skills in software development.
 
 ## 🎙️ Activities
