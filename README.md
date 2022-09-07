@@ -1,4 +1,5 @@
-# Hi there 👋
+# Hi Folks 👋
+Welcome to my page! 
 I'm a tech lover, productivity geek and mommy.
 Currently working hard to grow up my skills in software development.
 
