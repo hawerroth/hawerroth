@@ -3,7 +3,7 @@ Welcome to my page!
 <p>I'm a tech lover ♥️, productivity geek and mommy. Aspiring coder and full-time learning seeker.</p>
 <p>Currently working hard to grow up my skills in software development.</p>
 
-## 🎙️ About Me:
+### 🎙️ About Me:
 - 🇧🇷 Brazilian living in 🇹🇱 Timor-Leste.
 - 👯 I’m looking to collaborate on projects for social goods, opensource projects or to help the community in any way 🚀
 - 🤝 Graduated in Ruby on Rails and accepting new challenges!
@@ -26,6 +26,6 @@ Welcome to my page!
 </p>
 
 
-### 🌐 💬 I'd like to hear you on my networks, if you want to see my professional and funny side: 📫
+### I'd like to hear you on my networks, if you want to see my professional and funny side: 📫
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/angela.hawerroth) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/angela-h-amaral/) 
 
