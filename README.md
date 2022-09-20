@@ -1,12 +1,12 @@
 # Hi, nice to see you 👋
 Welcome to my page! 
-<p>I'm a tech lover, productivity geek and mommy. Aspiring coder and full-time learning seeker.</p>
+<p>I'm a tech lover ♥️, productivity geek and mommy. Aspiring coder and full-time learning seeker.</p>
 <p>Currently working hard to grow up my skills in software development.</p>
 
 ## 🎙️ About Me:
 - 🇧🇷 Brazilian living in 🇹🇱 Timor-Leste.
 - 👯 I’m looking to collaborate on projects for social goods, opensource projects or to help the community in any way 🚀
-- 🤝 I’m looking for help with software development.
+- 🤝 Graduated in Ruby on Rails and accepting new challenges!
 - 🌱 I’m currently learning Ruby on Rails, JavaScript, HTML + CSS, Javascript/Typescript (Nodejs, ReactJS and React Native).
 - ⚡ Fun fact : I love my 😻's Luna/Black, my husband 👨🏻‍💻 and my kiddos 👧👦!<br>
 
